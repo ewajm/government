@@ -17,3 +17,7 @@
 .jumbotron h6, .jumbotron h5, .jumbotron h4, .jumbotron h3{
   text-align: center;
 }
+
+.img-responsive {
+  max-width: 500px;
+}

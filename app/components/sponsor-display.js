@@ -16,6 +16,8 @@ export default Ember.Component.extend({
     var arrayOfSilly2 = [
       "person",
       "sympathizer",
+      "empathizer",
+      "assassin",
       "blogger",
       "channeler",
       "cultist",

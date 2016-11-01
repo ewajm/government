@@ -11,11 +11,11 @@ export default Ember.Component.extend({
       search: 'health care'
     },
     {
-      name: 'chupacabra',
+      name: 'jackalopes',
       search: 'finance'
     },
     {
-      name: 'lizard people',
+      name: 'snake people',
       search: 'education'
     },
     {
