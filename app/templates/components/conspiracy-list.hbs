@@ -1,0 +1,6 @@
+<h3>See the bills <em>THEY</em> don't want you to know about</h3>
+<ul>
+  {{#each conspiracies as |conspiracy|}}
+    {{#link-to 'conspiracy' conspiracy.name conspiracy.search}}<li>Bills about {{conspiracy.name}}</li>{{/link-to}}
+  {{/each}}
+</ul>
