@@ -1,5 +1,14 @@
 <div>
 <h3><a href={{bill.urls.opencongress}}> {{bill.bill_id}} {{bill.short_title}}</a></h3>
 <h4 class='warning'>WARNING: click link at your own risk - THAT'S HOW THEY GETCHA</h4>
+<div class="row">
+  <div class="col-sm-4">
+    <p>{{#link-to 'sponsor' bill.sponsor_id}}Sponser: {{bill.sponsor.first_name}} {{bill.sponsor.last_name}}{{/link-to}}</p>
+  </div>
+  <div class="col-sm-4">
+    <p>Introduced on {{bill.introduced_on}}</p>
+  </div>
+</div>
+
 <p>{{bill.official_title}}</p>
 </div>

@@ -1,0 +1,13 @@
+{{#each model.committee as |committee|}}
+  <h1>{{committee.name}}</h1>
+  <h3>{{committee.house}}</h3>
+{{/each}}
+
+{{#if model.subcommittees}}
+  <h3>Subcommittees</h3>
+  <ul>
+    {{#each model.subcommittees as |subcommittee|}}
+      <li>{{subcommittee.name}}</li>
+    {{/each}}
+  </ul>
+{{/if}}

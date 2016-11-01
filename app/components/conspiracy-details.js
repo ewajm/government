@@ -13,7 +13,7 @@ export default Ember.Component.extend({
       },
       {
         name: 'Chupacabra',
-        description: 'It is a well known fact that chupacabras love eating money way way way more than they love eating goats.  That\'s why chupacabra symmpathizers in the govumint have been working on funneling them money. It\'s like they care more about goats than HARDWORKING UNITED STATES CITIZENS.'
+        description: 'It is a well known fact that chupacabras love eating money way way way more than they love eating goats.  That\'s why chupacabra symmpathizers in the govumint have been working on funneling them money. They care more about goats than HARDWORKING UNITED STATES CITIZENS.'
       },
       {
         name: 'Snake People',
