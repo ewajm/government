@@ -1,6 +1,6 @@
 # Guvmint
 
-This is a website full of silly fake conspiracy theories. Please note: this is intended to be funny. If you don't think it's funny don't read it. 
+This is a website full of silly fake conspiracy theories. Please note: this is intended to be funny API practice
 
 ## Prerequisites
 
@@ -24,28 +24,19 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
+## GitHub link
 
-Make use of the many generators for code, try `ember help generate` for more details
+https://github.com/ewajm/craigslist-clone
 
-### Running Tests
+## Technologies Used
 
-* `ember test`
-* `ember test --server`
+* Javascript
+* Node.js and npm
+* Ember
+* Firebase
 
-### Building
+## Licensing
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+* MIT
 
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+Copyright (c) 2016 **_Ewa Manek and Katy Henning_**
